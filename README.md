@@ -3,16 +3,17 @@
 
 ## Project description
 The dataset I've chosen provide information about the catalogue of applications available on Google Play Store.
-The goal of this project was to extract insights about our dataset and do the same data visualisation with Python (matplotlib/seaborn) and with Tableau. 
-For instance, in this project I asked the following question: What are the most popular categories of apps by number of installs?
+The goal of this project was to extract insights about our dataset and do the same data visualisation with Python (matplotlib/seaborn) and with Tableau.\
+For instance, among other questions, I asked the following one:\
+What are the most popular categories of apps by number of installs?
 
 ## Visualisation with Python  
-<img src="https://github.com/abeliapetelle/Google-Play-Store-Market-Analysis/blob/master/Media/Python.png">
+<img src="https://github.com/abeliapetelle/Google-Play-Store-Market-Analysis/blob/master/Media/Python.png" width="85%" height="85%">
 
 50% of users have all these same top 9 types of apps bellow, but the types of apps that have the maximum off dowloads are : Game, Video Players, Communication, entertainment and photography
 
 ## Visualisation in Tableau 
-<img src="https://github.com/abeliapetelle/Google-Play-Store-Market-Analysis/blob/master/Media/Tableau.png">
+<img src="https://github.com/abeliapetelle/Google-Play-Store-Market-Analysis/blob/master/Media/Tableau.png" width="85%" height="85%">
 
 Apps that are the most downloaded in average are communication’s apps followed by video player’s apps
 
