@@ -1,17 +1,25 @@
 # Google Play Store Market Analysis
 <img src="https://www.universfreebox.com/wp-content/uploads/2019/10/google-play-store-800x450-c-default.jpg" width="15%" height="15%">
 
-## Instruction
-Do the same data visualisation with Python (matplotlib/seaborn) and with Tableau 
-
 ## Project description
-What are the most popular categories of apps by number of installs?
+The dataset I've chosen provide information about the catalogue of applications available on Google Play Store.
+The goal of this project was to extract insights about our dataset and do the same data visualisation with Python (matplotlib/seaborn) and with Tableau. 
+For instance, in this project I asked the following question: What are the most popular categories of apps by number of installs?
 
 ## Visualisation with Python  
+<img src="https://github.com/abeliapetelle/Google-Play-Store-Market-Analysis/blob/master/Media/Python.png">
+
+50% of users have all these same top 9 types of apps bellow, but the types of apps that have the maximum off dowloads are : Game, Video Players, Communication, entertainment and photography
 
 ## Visualisation in Tableau 
+<img src="https://github.com/abeliapetelle/Google-Play-Store-Market-Analysis/blob/master/Media/Tableau.png">
+
+Apps that are the most downloaded in average are communication’s apps followed by video player’s apps
 
 ## Conclusion
+
+With matplotlib visualization, you really can do what you want but I was limited because of my technical skills. 
+With Tableau, you can create really great visualization but someties it can't do exactly what we want (here, I wanted to do a scatter plot but the software wouldn't do it). 
 
 ## Built With
 
